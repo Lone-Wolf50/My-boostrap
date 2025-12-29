@@ -1,0 +1,19 @@
+.navbar {
+  background-color: #2F4F4F; /* same as your theme */
+  border-bottom: white;
+}
+
+
+.logo{
+  font-weight: 800;
+  font-family: 'Times New Roman', Times, serif;
+}
+section{
+  background-color:  #2F4F4F;
+}
+
+body::before{
+display: block;
+content: '';
+height:60px;
+}
